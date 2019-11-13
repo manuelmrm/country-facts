@@ -40,7 +40,7 @@ Famous for:
 #######################################
 ## Spain
 
-Capital: Barcelona
+Capital: Madrid
 Continent: Europe
 Language: Spanish
 Population Size: 10 million
@@ -54,7 +54,7 @@ Famous for:
 ## Sweden
 
 Capital: Stockholm
-Continent: Africa
+Continent: Europe
 Language: Swedish
 Population Size: Three-four people
 Famous for:
